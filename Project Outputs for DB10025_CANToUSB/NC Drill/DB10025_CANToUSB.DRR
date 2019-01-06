@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: DB10025_CANToUSB.PcbDoc   6-1-2019  21:23:19
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : L1 to L4
+ASCII RoundHoles File : DB10025_CANToUSB-RoundHoles.TXT
+ASCII SlotHoles File : DB10025_CANToUSB-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             197       PTH        689.38mm (27.14inch)
+T2      0.4mm (16mil)                                             Slot              2         PTH        16.16mm (0.64inch)
+T3      2.35mm (93mil)                                            Round             2         PTH        16.30mm (0.64inch)
+T4      0.995mm (39mil)                                           Round             3         NPTH       7.21mm (0.28inch)
+T5      5.2mm (205mil)                                            Round             1         NPTH       0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              205
+
+Total Processing Time (hh:mm:ss) : 00:00:00
